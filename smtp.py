@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#如果需要在linux系统下执行，请在首行指定要使用的python解释器命令路径
 from email import encoders
 from email.header import Header
 from email.mime.text import MIMEText
